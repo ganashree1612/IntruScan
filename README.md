@@ -12,7 +12,11 @@ This project implements a real-time Intrusion Detection System using **Scapy** f
 git clone https://github.com/yourusername/intrusion-detection-system.git
 
 run python main.py
+
+
 cd dashboard
+
+
 streamlit run main.py
 
 Make sure you have Python 3.7+ and install the required packages:
