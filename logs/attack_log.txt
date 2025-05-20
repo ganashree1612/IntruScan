@@ -1,0 +1,6 @@
+[2025-05-13 10:12:32] ALERT: Intrusion Detected from IP 192.168.1.102 — Type: DoS Attack — Action Taken: IP Blocked
+[2025-05-13 10:14:07] ALERT: Intrusion Detected from IP 192.168.1.105 — Type: Probe Attack — Action Taken: IP Blocked
+[2025-05-13 10:17:49] ALERT: Intrusion Detected from IP 10.0.0.9 — Type: R2L Attack — Action Taken: IP Blocked
+[2025-05-13 10:19:25] ALERT: Intrusion Detected from IP 172.16.5.4 — Type: U2R Attack — Action Taken: IP Blocked
+[2025-05-13 10:22:51] ALERT: Intrusion Detected from IP 192.168.1.200 — Type: Unknown Attack — Action Taken: IP Blocked
+2025-05-20 20:33:16,821 - ALERT: Intrusion Detected from IP 192.168.1.100 � Type: DoS � Action Taken: IP Blocked
