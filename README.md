@@ -2,24 +2,15 @@
 
 This project implements a real-time Intrusion Detection System using **Scapy** for packet sniffing, a **Machine Learning model** for classification, and system-level firewall commands to block malicious IPs. It's designed to detect network attacks such as DoS, Probe, R2L, and U2R using features inspired by the **NSL-KDD** dataset.
 
----
+---![WhatsApp Image 2025-05-20 at 20 36 08_0357916d](https://github.com/user-attachments/assets/c4e2327c-b12a-4910-bce7-ef75c7e15fb6)
+
 
 ## 📁 Project Structure
 
-IntruScan/
-├── detection/
-│ └── classifier.py # ML model to classify packets as normal or attack
-├── firewall/
-│ └── block_ip.py # Blocks IP using system firewall (Windows/Linux)
-├── monitor/
-│ └── sniffer.py # Captures and processes live packets
-├── logs/
-│ └── attack_log.txt # Logs intrusion alerts and blocked IPs
-├── model/
-│ └── rf_model.pkl # Trained Random Forest model (or any ML model)
-├── README.md
+
 1. Clone the Repo
 git clone https://github.com/yourusername/intrusion-detection-system.git
+
 run python main.py
 cd dashboard
 streamlit run main.py
